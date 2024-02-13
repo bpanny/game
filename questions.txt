@@ -1,0 +1,6 @@
+text What is the capdde? Paris London Berlin Help
+picture pics\hi.png Where is this? Paris London Berlin Help
+sound music/national_anthem.mp3 Which country's anthem is this? France Canada Germany Help
+text What is the capital of France? Paris London Berlin Help
+text What is the capital of Fr? London Berlin Help Paris 
+text What is the capitd? Berlin Help Paris London 
